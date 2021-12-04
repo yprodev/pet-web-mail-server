@@ -1,0 +1,10 @@
+{
+  "name": "pet-web-mail-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yprodev/pet-web-mail-server.git",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
