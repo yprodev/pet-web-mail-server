@@ -1,36 +1,126 @@
 {
-  "all": [
+  "folderList": ["inbox", "snoozed", "sent", "draft", "trash"],
+  "emails": [
     {
       "id": "991ed262-49b2-4bf3-a143-5207bce90249",
-      "header": {
-        "title": "Hello my Dear Friend",
-        "from": "anotherFriend@gmail.com",
-        "date": 1
+      "meta": {
+        "isRead": false,
+        "folder": "inbox"
       },
-      "body": {
-        "message": "Hello my Dear Friend,\\n We need to have a meeting!"
+      "header": {
+        "subject": "Please, call me!",
+        "from": "Michael Scout",
+        "date": 1,
+        "preview": "We need to have a meet-up"
       }
     },
     {
       "id": "4bc088d3-a0af-45ff-a8f4-50834696172d",
-      "header": {
-        "title": "Hello my Dear Friend",
-        "from": "anotherFriend@gmail.com",
-        "date": 2
+      "meta": {
+        "isRead": false,
+        "folder": "inbox"
       },
-      "body": {
-        "message": "Hello my Dear Friend,\\n We need to have a meeting!"
+      "header": {
+        "subject": "Please, call me again!",
+        "from": "Elizabeth Tailor",
+        "date": 4,
+        "preview": "We need to have a meet-up once more"
       }
     },
     {
       "id": "3509badf-8200-4010-a2d9-f3400a6e0cbc",
-      "header": {
-        "title": "Hello my Dear Friend",
-        "from": "anotherFriend@gmail.com",
-        "date": 3
+      "meta": {
+        "isRead": true,
+        "folder": "inbox"
       },
-      "body": {
-        "message": "Hello my Dear Friend,\\n We need to have a meeting!"
+      "header": {
+        "subject": "Hello my Dear Friend",
+        "from": "anotherFriend@gmail.com",
+        "date": 5,
+        "preview": "Short message is written here"
+      }
+    },
+    {
+      "id": "3509badf-8200-4010-a2d9-f3400a6e0cbc",
+      "meta": {
+        "isRead": true,
+        "folder": "snoozed"
+      },
+      "header": {
+        "subject": "Hello my Dear Friend",
+        "from": "anotherFriend@gmail.com",
+        "date": 2,
+        "preview": "Short message is written here"
+      }
+    },
+    {
+      "id": "3509badf-8200-4010-a2d9-f3400a6e0cbc",
+      "meta": {
+        "isRead": false,
+        "folder": "snoozed"
+      },
+      "header": {
+        "subject": "Hello my Dear Friend",
+        "from": "anotherFriend@gmail.com",
+        "date": 3,
+        "preview": "Short message is written here"
+      }
+    },
+    {
+      "id": "3509badf-8200-4010-a0d9-f3400a6e0c6c",
+      "meta": {
+        "isRead": false,
+        "folder": "trash"
+      },
+      "header": {
+        "subject": "Hello my Dear Friend",
+        "from": "anotherFriend@gmail.com",
+        "date": 6,
+        "preview": "Short message is written here"
+      }
+    }
+  ],
+  "emailsFull": [
+    {
+      "id": "991ed262-49b2-4bf3-a143-5207bce90249",
+      "content": {
+        "attachments": [],
+        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
+      }
+    },
+    {
+      "id": "4bc088d3-a0af-45ff-a8f4-50834696172d",
+      "content": {
+        "attachments": [],
+        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
+      }
+    },
+    {
+      "id": "3509badf-8200-4010-a2d9-f3400a6e0cbc",
+      "content": {
+        "attachments": [],
+        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
+      }
+    },
+    {
+      "id": "3509badf-8200-4010-a2d9-f3400a6e0cbc",
+      "content": {
+        "attachments": [],
+        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
+      }
+    },
+    {
+      "id": "3509badf-8200-4010-a2d9-f3400a6e0cbc",
+      "content": {
+        "attachments": [],
+        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
+      }
+    },
+    {
+      "id": "3509badf-8200-4010-a0d9-f3400a6e0c6c",
+      "content": {
+        "attachments": [],
+        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
       }
     }
   ]
