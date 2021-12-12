@@ -28,7 +28,7 @@
       }
     },
     {
-      "id": "3509badf-8200-4010-a2d9-f3400a6e0cbc",
+      "id": "3509badf-8200-4010-a2d9-f3400a6e1cbc",
       "meta": {
         "isRead": true,
         "folder": "inbox"
@@ -54,7 +54,7 @@
       }
     },
     {
-      "id": "3509badf-8200-4010-a2d9-f3400a6e0cbc",
+      "id": "3509badf-8200-4010-a2d9-f3434a6e0cbc",
       "meta": {
         "isRead": false,
         "folder": "snoozed"
@@ -83,45 +83,33 @@
   "emailsFull": [
     {
       "id": "991ed262-49b2-4bf3-a143-5207bce90249",
-      "content": {
-        "attachments": [],
-        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
-      }
+      "attachments": [],
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
     },
     {
       "id": "4bc088d3-a0af-45ff-a8f4-50834696172d",
-      "content": {
-        "attachments": [],
-        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
-      }
+      "attachments": [],
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
+    },
+    {
+      "id": "3509badf-8200-4010-a2d9-f3400a6e1cbc",
+      "attachments": [],
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
     },
     {
       "id": "3509badf-8200-4010-a2d9-f3400a6e0cbc",
-      "content": {
-        "attachments": [],
-        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
-      }
+      "attachments": [],
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
     },
     {
-      "id": "3509badf-8200-4010-a2d9-f3400a6e0cbc",
-      "content": {
-        "attachments": [],
-        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
-      }
-    },
-    {
-      "id": "3509badf-8200-4010-a2d9-f3400a6e0cbc",
-      "content": {
-        "attachments": [],
-        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
-      }
+      "id": "3509badf-8200-4010-a2d9-f3434a6e0cbc",
+      "attachments": [],
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
     },
     {
       "id": "3509badf-8200-4010-a0d9-f3400a6e0c6c",
-      "content": {
-        "attachments": [],
-        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
-      }
+      "attachments": [],
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis deleniti suscipit fugiat illo atque facere ea quod officia ex iure earum, quis ut consectetur voluptates provident nam explicabo cum accusamus?"
     }
   ]
 }
